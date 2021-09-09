@@ -5,7 +5,7 @@ Game Title: Hunter's Guild
 A simple text-based adventure game.
 
 ## Implementation
-Created using Python 3.9
+Created using Python 3.9 and Twine 2.3.14
 
 ## References
 None
